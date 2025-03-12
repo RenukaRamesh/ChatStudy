@@ -129,8 +129,8 @@ server.close()
 ```
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/0c9633e5-b49b-476f-aa9b-03260a8baac1)
 
-![alt text](image.png)
 
 ## Result:
 
